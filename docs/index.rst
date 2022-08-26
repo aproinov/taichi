@@ -95,7 +95,7 @@ Contents
    iphone/index
    en/latest/index
    sound-of-text/index
-   sebut-nama/index.rst
+   sebut-nama/index
    aplikasi-wa-modifikasi/index
    tulisan-miring/index
    app-lock/index
