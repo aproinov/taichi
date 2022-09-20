@@ -39,4 +39,4 @@ Mudah bukan? Selamat mencoba.
 
 - `Nada dering wa Sebut Nama Sendiri <https://www.teknotuf.com/nada-dering-sound-of-text-sebut-nama/>`_
 - `Nada dering wa sebut nama sayang <https://karinov.co.id/pesan-wa-masuk-sebut-nama-sayang/>`_
-- `Shouter Notification Reader <https://www.pelita.or.id/shouter-cara-buat-nada-dering-wa/>`_
+- `Nada dering wa sebut nama pemanggil <https://www.sebuahutas.com/2022/09/nada-dering-wa-sebut-nama-sendiri.html>`_
