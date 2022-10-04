@@ -2,7 +2,7 @@
 Dokumentasi Nada Dering WhatsApp Suara Google
 ###########################################
 
-Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://www.technolati.com/2022/09/sound-of-text-whatsapp-indonesia-buat.html>`_.
+Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan sound of text.
 
 Sebab Google Translate tidak bisa menyimpan audio sehingga kamu bisa membuatnya melalui situs sound of text. Ada beberapa cara downlaod suara Google 'ada WA masuk’ menggunakan beberapa situs.
 
@@ -60,7 +60,7 @@ Rata-rata suara dari tokoh tersebut tergolong lucu dan akan mampu menghibur oran
 
 Karena proses percobaan dari beberapa tokoh maka kamu tidak perlu langsung mengklik download tetapi bisa memilih play terlebih dahulu. Setelah kamu mendapatkan suara terbaik maka bisa langsung mengklik download mp3 untuk mulai mengunduh audio. 
 
-**Sumber**: https://www.sebuahutas.com/2022/09/cara-download-suara-google-translate.html
+**Sumber**: https://www.sebuahutas.com/cara-membuat-suara-google/
 
 #2 Suara Wanita
 ----------------
@@ -111,8 +111,8 @@ Setelah kamu mengunduh suara Google dengan menggunakan salah satu situs di atas,
 
 Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: 
 
-- `Sound Text <https://www.statmat.net/sound-text-nada-dering-wa/>`_
-- `Sound of text Keren Bahasa Indonesia <https://www.autobild.co.id/2022/07/sound-of-text-wa-lucu-bahasa-indonesia.html>`_
+- `Sound Text <https://www.autobild.co.id/2022/09/sound-of-text-wa-keren-dengan-suara.html>`_
+- `Sound of text Suara Google <https://www.sebuahutas.com/sound-of-text/>`_
 
 ********
 Contents
@@ -130,3 +130,4 @@ Contents
    tulisan-miring/index
    app-lock/index
    freetts/index
+   sound-text/index
