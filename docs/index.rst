@@ -131,3 +131,4 @@ Contents
    app-lock/index
    freetts/index
    sound-text/index
+   vidmate-versi-lama/index
