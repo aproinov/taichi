@@ -111,8 +111,24 @@ Setelah kamu mengunduh suara Google dengan menggunakan salah satu situs di atas,
 
 Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: 
 
-- `Sound Text <https://www.autobild.co.id/2022/09/sound-of-text-wa-keren-dengan-suara.html>`_
+- `Sound Text <https://www.soundoftext.co.id/>`_
 - `Sound of text Suara Google <https://www.sebuahutas.com/sound-of-text/>`_
+
+Aplikasi Alternatif Suara Google
+=======================
+
+Jika Anda sedang mencari aplikasi atau alat alternatif yang menawarkan fungsionalitas serupa sound of text, berikut adalah beberapa pilihan:
+
+- Google Text-to-Speech: Ini adalah layanan yang disediakan oleh Google yang memungkinkan perangkat mengonversi teks menjadi ucapan dan digunakan oleh banyak aplikasi untuk membacakan teks.
+- iSpeech: Alat berbasis web yang memungkinkan Anda mengonversi teks menjadi suara. Mereka juga menawarkan API bagi pengembang yang ingin mengintegrasikannya ke dalam aplikasi atau layanan mereka sendiri.
+- Natural Reader: Sebuah program yang menawarkan konversi teks-ke-suara dengan banyak suara berbeda dan bahasa yang tersedia.
+- TextAloud: Software yang mengonversi teks menjadi suara.
+- T2S: Text to Voice: Ini adalah aplikasi mobile yang memungkinkan pengguna untuk mengonversi teks menjadi audio.
+- Balabolka: Software gratis untuk Windows yang bisa mengubah teks menjadi berkas suara.
+- Amazon Polly: Ini adalah layanan AWS yang mengubah teks menjadi ucapan yang realistis. Polly menawarkan berbagai pilihan suara dalam berbagai bahasa.
+- IBM Watson Text to Speech: Layanan yang mengonversi teks ke dalam ucapan alami.
+
+Ketika memilih aplikasi atau layanan alternatif, perlu mempertimbangkan kebutuhan Anda seperti variasi suara, bahasa yang didukung, harga, dan kualitas output suara.
 
 ********
 Contents
