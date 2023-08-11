@@ -128,5 +128,5 @@ Jadi seperti itulah cara pakai situs sound of text yang bisa kamu manfaatkan unt
 **Referensi**:
 
 - `Sound of text WA <https://www.sebuahutas.com/sound-of-text/>`_
-- `Sound of text Keren Bahasa Indonesia <https://www.autobild.co.id/2023/05/8-sound-of-text-wa-yang-keren-bahasa.html>`_
+- `Sound of text Keren B. Indonesia <https://www.soundoftext.co.id>`_
 - `Voice of text <https://www.voiceoftext.com/p/sound-of-text-wa.html>`_
